@@ -40,6 +40,7 @@ flowchart LR
 .
 ├── Documents/
 │   └── Progress Reports.pdf
+|   └── Project Proposal.pdf
 ├── Implementation/
 │   ├── databricks/
 │   │   ├── notebooks/
@@ -49,10 +50,8 @@ flowchart LR
 │   │   ├── silver/
 │   │   └── gold/
 │   ├── webapp/
-│   │   ├── backend/
-│   │   └── frontend/
-│   └── misc/
-│       └── presentation.ppt
+│       ├── backend/
+│       └── frontend/
 
 ```
 
