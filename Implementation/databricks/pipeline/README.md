@@ -1,3 +1,1 @@
-# pipeline
-
-
+**Pipelines**: Automated workflows that orchestrate data processing across the Medallion Architecture layers (Bronze → Silver → Gold).
