@@ -21,7 +21,6 @@ It provides a clear and interactive view of employee data for an organization, m
   - Hiring trends by year  
 
 - **Interactive Filters (Slicers)**  
-  - Department, Status, and Work Mode  
   - Clicking options filters all charts on the page automatically  
 
 ## Purpose
