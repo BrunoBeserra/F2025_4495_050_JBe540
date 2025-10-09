@@ -20,7 +20,7 @@ It provides a clear and interactive view of employee data for an organization, m
   - Performance rating distribution  
   - Hiring trends by year  
 
-- **Interactive Filters (Funnels / Slicers)**  
+- **Interactive Filters (Slicers)**  
   - Department, Status, and Work Mode  
   - Clicking options filters all charts on the page automatically  
 
