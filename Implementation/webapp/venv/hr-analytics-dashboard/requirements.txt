@@ -1,0 +1,6 @@
+dash=2.14.2
+pandas
+plotly
+databricks-sql-connector
+python-dotenv
+statsmodels
