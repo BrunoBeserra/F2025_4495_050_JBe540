@@ -1,0 +1,51 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="W49iyNKKYIOS-POtUKS4">
+    <mxGraphModel dx="970" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="90" width="530" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffff, #ededed);" vertex="1" parent="eTT6U5TPdgapedfzYtYZ-18">
+          <mxGeometry width="530" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eTT6U5TPdgapedfzYtYZ-18" source="eTT6U5TPdgapedfzYtYZ-1" target="eTT6U5TPdgapedfzYtYZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-1" value="Kaggle HR Dataset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTT6U5TPdgapedfzYtYZ-18">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eTT6U5TPdgapedfzYtYZ-18" source="eTT6U5TPdgapedfzYtYZ-2" target="eTT6U5TPdgapedfzYtYZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-2" value="Exploratory Data Analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTT6U5TPdgapedfzYtYZ-18">
+          <mxGeometry x="200" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eTT6U5TPdgapedfzYtYZ-18" source="eTT6U5TPdgapedfzYtYZ-3" target="eTT6U5TPdgapedfzYtYZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-3" value="Initial Employee Snapshot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTT6U5TPdgapedfzYtYZ-18">
+          <mxGeometry x="390" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eTT6U5TPdgapedfzYtYZ-18" source="eTT6U5TPdgapedfzYtYZ-4" target="eTT6U5TPdgapedfzYtYZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-4" value="Simulation Rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTT6U5TPdgapedfzYtYZ-18">
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-5" value="84 monthly CSV Snapshot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTT6U5TPdgapedfzYtYZ-18">
+          <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eTT6U5TPdgapedfzYtYZ-18" source="eTT6U5TPdgapedfzYtYZ-6" target="eTT6U5TPdgapedfzYtYZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTT6U5TPdgapedfzYtYZ-6" value="Data Cleaning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTT6U5TPdgapedfzYtYZ-18">
+          <mxGeometry x="390" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
