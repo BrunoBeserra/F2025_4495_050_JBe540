@@ -83,7 +83,7 @@ df["Performance_Rating"] = pd.to_numeric(df["Performance_Rating"], errors="coerc
 df["Experience_Years"] = pd.to_numeric(df["Experience_Years"], errors="coerce")
 
 df["Salary_INR"] = pd.to_numeric(df["Salary_INR"], errors="coerce")
-INR_TO_USD = 1 / 83
+INR_TO_USD = 1
 df["Salary_USD"] = df["Salary_INR"] * INR_TO_USD
 
 
